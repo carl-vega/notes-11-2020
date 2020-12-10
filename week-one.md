@@ -21,3 +21,8 @@
 ### Specificity
     Specificity is term for most relevant CSS property applied to an element.
 [Mozilla Developer for more information](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+
+## What is a relative path?
+
+    There are three ways to add CSS to a HTML document: external CSS, internal CSS, and inline CSS. 
+[w3schools for more information](https://www.w3schools.com/html/html_filepaths.asp)
