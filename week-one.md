@@ -8,3 +8,8 @@
 
     Semantic elements are elements that have a meaning. This can help describe what type of content is suppose to be in a particular part of HTML.
 [w3schools for more information](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+## What are HTML elements?
+
+    An HTML element is a tag with some kind of content provided in it.
+[w3schools for more information](https://www.w3schools.com/html/html_intro.asp)
